@@ -1,0 +1,9 @@
+most: foucs on recognizing activities of daily living (ADL) & sports
+	>> simple movements easily captyred by body-worn sensors
+people's lifestyle such as sleep and respiration
+	>> requires some object and ambient sensors (wi-fi and sound)
+apply HAR to health and disease issues
+Parkinson's disease, trauma resuscitation, paroxysmal atrial fibrillation
+	>> body movements or functions
+>> disease&activity should be more considered (use appropriate sensors)
+recognition of high-level activities is helpful to learn more information for HAR
